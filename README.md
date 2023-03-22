@@ -8,3 +8,12 @@ With a wealth of 1.8 years in the engaging field of industrial consulting, I pos
 I am passionate about crafting compelling visualizations from intricate data sets, the process of which energizes and invigorates me. Adept in utilizing Python for data cleaning and exploratory data analysis, I am highly efficient in this approach.
 
 Creating interactive reports with Power BI is an activity that brings me great pleasure. I am always eager to expand my knowledge and master new DAX queries within the tool, as it's one of my favorite tool.
+
+# 💻Skills:
+→ MS Excel
+→ Power BI
+→ SQL
+→ Tableau
+→ Python
+→ Data analysis
+→ Business analysis
