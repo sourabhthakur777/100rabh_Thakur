@@ -43,3 +43,5 @@ Creating interactive reports with Power BI is an activity that brings me great p
 
 
 ![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabhthakur777&theme=maroongold&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhthakur777)](https://github.com/sourabhthakur777/github-readme-stats)
