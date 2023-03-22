@@ -1,3 +1,6 @@
+![Data Analyst](https://user-images.githubusercontent.com/113992933/226823211-f9b92066-db44-4410-98fd-7a39a2b1c141.png)
+
+
 print("Welcome to my Github Profile")
 # Welcome to my Github Profile
 
