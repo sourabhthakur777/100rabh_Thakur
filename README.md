@@ -29,7 +29,6 @@ Creating interactive reports with Power BI is an activity that brings me great p
 → Business analysis
 
 ## 💫 About Me:
-
 ![](https://komarev.com/ghpvc/?username=your-github-sourabhthakur777)
 
 → Currrently working as Senior Analyst at Tata Consulting Engineers Limited
