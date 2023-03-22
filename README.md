@@ -15,6 +15,7 @@ Creating interactive reports with Power BI is an activity that brings me great p
 <img align="right" width="700" height="250" src="https://cdn-images-1.medium.com/max/800/1*jWt7QPw7x86-BmiDMm3l_w.png">
      
 → MS Excel
+<img align="right" width="700" height="250" src="https://user-images.githubusercontent.com/113992933/226903812-ac30e69d-53a2-41f2-bb41-53a1a953044a.png">
 
 → Power BI
 
