@@ -10,10 +10,17 @@ I am passionate about crafting compelling visualizations from intricate data set
 Creating interactive reports with Power BI is an activity that brings me great pleasure. I am always eager to expand my knowledge and master new DAX queries within the tool, as it's one of my favorite tool.
 
 # 💻Skills:
+
 → MS Excel
+
 → Power BI
+
 → SQL
+
 → Tableau
+
 → Python
+
 → Data analysis
+
 → Business analysis
