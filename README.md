@@ -24,3 +24,12 @@ Creating interactive reports with Power BI is an activity that brings me great p
 → Data analysis
 
 → Business analysis
+
+# 💫 About Me:
+
+Currrently working as Senior Analyst at Tata Consulting Engineers Limited
+
+🔭 I’m currently working on my Portfolio Projects
+
+👨‍💻 All of my projects are available at
+https://www.novypro.com/profile_projects/sourabhthakur777, let's have a 👀
