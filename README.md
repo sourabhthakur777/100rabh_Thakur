@@ -39,6 +39,8 @@ Creating interactive reports with Power BI is an activity that brings me great p
 
 https://www.novypro.com/profile_projects/sourabhthakur777, let's have a 👀
 
-→ 📄 Detailed experiences 👉 https://www.linkedin.com/in/sourabhthakur/ <img align="right" width="100" height="100" src="https://www.edigitalagency.com.au/wp-content/uploads/linkedin-logo-gif-funny-man-suitcase.gif">
+→ 📄 Detailed experiences 👉 https://www.linkedin.com/in/sourabhthakur/ <p align="center">
+  <img width="200" height="200" src="https://www.edigitalagency.com.au/wp-content/uploads/linkedin-logo-gif-funny-man-suitcase.gif">
+</p> <img align="right" width="100" height="100" src="https://www.edigitalagency.com.au/wp-content/uploads/linkedin-logo-gif-funny-man-suitcase.gif">
 
 
