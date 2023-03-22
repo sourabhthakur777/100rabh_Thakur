@@ -29,7 +29,7 @@ Creating interactive reports with Power BI is an activity that brings me great p
 → Business analysis
 
 <p align="center">
-  <img width="600" height="400" src="https://user-images.githubusercontent.com/113992933/226905601-f534bb6a-9b0e-4b4b-beb2-85f2cbe9d41a.png">
+  <img width="580" height="400" src="https://user-images.githubusercontent.com/113992933/226905601-f534bb6a-9b0e-4b4b-beb2-85f2cbe9d41a.png">
 </p>
 
 ## 💫 About Me:
