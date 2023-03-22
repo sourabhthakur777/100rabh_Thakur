@@ -12,7 +12,7 @@ I am passionate about crafting compelling visualizations from intricate data set
 Creating interactive reports with Power BI is an activity that brings me great pleasure. I am always eager to expand my knowledge and master new DAX queries within the tool, as it's one of my favorite tool.
 
 ## 💻Skills:
-<img align="right" width="700" height="350" src="https://cdn-images-1.medium.com/max/800/1*jWt7QPw7x86-BmiDMm3l_w.png">
+<img align="right" width="600" height="350" src="https://cdn-images-1.medium.com/max/800/1*jWt7QPw7x86-BmiDMm3l_w.png">
      
 → MS Excel
 
