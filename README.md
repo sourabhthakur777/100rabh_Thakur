@@ -31,5 +31,8 @@ Currrently working as Senior Analyst at Tata Consulting Engineers Limited
 
 🔭 I’m currently working on my Portfolio Projects
 
-👨‍💻 All of my projects are available at
+👨‍💻 All of my projects are available at 👇
+
 https://www.novypro.com/profile_projects/sourabhthakur777, let's have a 👀
+
+📄 Detailed experiences 👉 https://www.linkedin.com/in/sourabhthakur/
