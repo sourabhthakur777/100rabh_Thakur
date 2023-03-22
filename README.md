@@ -1,5 +1,5 @@
 print("Welcome to my Github Profile")
-## Welcome to my Github Profile
+# Welcome to my Github Profile
 
 ![ss](https://user-images.githubusercontent.com/113992933/226815822-51c3df94-f925-480f-8b2c-fabab05885ff.gif)
 
@@ -9,7 +9,7 @@ I am passionate about crafting compelling visualizations from intricate data set
 
 Creating interactive reports with Power BI is an activity that brings me great pleasure. I am always eager to expand my knowledge and master new DAX queries within the tool, as it's one of my favorite tool.
 
-# 💻Skills:
+## 💻Skills:
 
 → MS Excel
 
@@ -25,7 +25,7 @@ Creating interactive reports with Power BI is an activity that brings me great p
 
 → Business analysis
 
-# 💫 About Me:
+## 💫 About Me:
 
 → Currrently working as Senior Analyst at Tata Consulting Engineers Limited
 
